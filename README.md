@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanathnath
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/sanath-nath/
 
 <!---
